@@ -1,0 +1,59 @@
+.mainsquare{
+    width:630px;
+    height:630px;
+}
+
+.square{
+    width:200px;
+    height:200px;
+    border:5px solid #fff;
+    float:left;
+}
+
+.circle {
+    border-radius: 50% 50%;
+    height: 120px;
+    width:120px;
+    margin:34px auto;
+    border:3px solid #000;
+}
+
+[class$="red"]{
+    background-color: red;
+}
+
+[class$="blue"]{
+    background-color: blue;
+}
+
+[class$="green"]{
+    background-color: green;
+}
+
+[class$="yellow"]{
+    background-color: yellow;
+}
+
+[class$="black"]{
+    background-color: black;
+}
+
+[class$="orange"]{
+    background-color: orange;
+}
+
+[class$="purple"]{
+    background-color: purple;
+}
+
+[class$="orange"]{
+    background-color: orange;
+}
+
+[class$="grey"]{
+    background-color: grey;
+}
+
+[class$="pink"]{
+    background-color: pink;
+}
